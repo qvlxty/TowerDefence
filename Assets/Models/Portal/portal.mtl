@@ -1,0 +1,113 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.09.2017 23:18:31
+
+newmtl Foregrou
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl materi07
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\materi07.bmp
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\materi07.bmp
+
+newmtl materi06
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\materi06.bmp
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\materi06.bmp
+
+newmtl materi04
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\materi04.bmp
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\materi04.bmp
+
+newmtl materi03
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\materi03.bmp
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\materi03.bmp
+
+newmtl Color_00
+	Ns 50.0000
+	Ni 1.5000
+	d 0.5000
+	Tr 0.5000
+	Tf 0.5000 0.5000 0.5000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\Color_00.png
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\Color_00.png
+	map_d C:\Users\Slava_laptop\Desktop\dark_portal\Color_00.png
+
+newmtl material
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\material.bmp
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\material.bmp
+
+newmtl materi05
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Slava_laptop\Desktop\dark_portal\materi05.bmp
+	map_Kd C:\Users\Slava_laptop\Desktop\dark_portal\materi05.bmp
